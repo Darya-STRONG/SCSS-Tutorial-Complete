@@ -10,3 +10,4 @@ Project Structure| [Exercises](https://www.youtube.com/watch?v=OxT05SPg1js&list=
 Nested Rules| [Exercises](https://www.youtube.com/watch?v=vajsECys5Tc&list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb&index=6)| [Solution](https://github.com/Darya-STRONG/SCSS-Tutorial-Complete)|![progress](logo.svg)
 Using Math| [Exercises](https://www.youtube.com/watch?v=sXE3nwjCY_w)| [Solution](https://github.com/Darya-STRONG/SCSS-Tutorial-Complete)|![progress](logo.svg)
 Maps| [Exercises](https://www.youtube.com/watch?v=La8wN7o-cL8)| [Solution](https://github.com/Darya-STRONG/SCSS-Tutorial-Complete)|![progress](logo.svg)
+Loops| [Exercises](hhttps://www.youtube.com/watch?v=I1lp8eSKmEs)| [Solution](https://github.com/Darya-STRONG/SCSS-Tutorial-Complete)|![progress](logo.svg)
