@@ -13,3 +13,4 @@ Maps| [Exercises](https://www.youtube.com/watch?v=La8wN7o-cL8)| [Solution](https
 Loops| [Exercises](https://www.youtube.com/watch?v=I1lp8eSKmEs)| [Solution](https://github.com/Darya-STRONG/SCSS-Tutorial-Complete)|![progress](logo.svg)
 Conditionals (@if)| [Exercises](https://www.youtube.com/watch?v=QPZOvED3N_8)| [Solution](https://github.com/Darya-STRONG/SCSS-Tutorial-Complete)|![progress](logo.svg)
 Parent Selectors| [Exercises](https://www.youtube.com/watch?v=unhOp1Z-hec)| [Solution](https://github.com/Darya-STRONG/SCSS-Tutorial-Complete)|![progress](logo.svg)
+Mixins| [Exercises](https://www.youtube.com/watch?v=eW1nhSZaPEw)| [Solution](https://github.com/Darya-STRONG/SCSS-Tutorial-Complete)|![progress](logo.svg)
