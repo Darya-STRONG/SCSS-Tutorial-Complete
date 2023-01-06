@@ -12,3 +12,4 @@ Using Math| [Exercises](https://www.youtube.com/watch?v=sXE3nwjCY_w)| [Solution]
 Maps| [Exercises](https://www.youtube.com/watch?v=La8wN7o-cL8)| [Solution](https://github.com/Darya-STRONG/SCSS-Tutorial-Complete)|![progress](logo.svg)
 Loops| [Exercises](https://www.youtube.com/watch?v=I1lp8eSKmEs)| [Solution](https://github.com/Darya-STRONG/SCSS-Tutorial-Complete)|![progress](logo.svg)
 Conditionals (@if)| [Exercises](https://www.youtube.com/watch?v=QPZOvED3N_8)| [Solution](https://github.com/Darya-STRONG/SCSS-Tutorial-Complete)|![progress](logo.svg)
+Parent Selectors| [Exercises](https://www.youtube.com/watch?v=unhOp1Z-hec)| [Solution](https://github.com/Darya-STRONG/SCSS-Tutorial-Complete)|![progress](logo.svg)
